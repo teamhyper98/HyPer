@@ -47,7 +47,7 @@ def jalan(z):
 
 
 #### LOGO ####
-logo = print figlet -f big "Hyper"
+logo ="
 
 ♨️°───────(Hyper Spamming Team)───────°♨️
 \033[1;92m║══▒═✺═▒═✺═▒═══¤═¤═¤════════════¤═══║
